@@ -1,0 +1,20 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Articles{% endblock %}
+
+{% block page_description %}All my clips in one place.{% endblock %}
+
+{% block content %}
+<article class="container">
+  <h1>ARTICLES</h1>
+  <p>Intro text here.</p>
+  <div class="row row-cols-1 row-cols-md-2  row-cols-lg-3 g-4">
+      {% for post in articles.articles %}
+      <h2><a href="articles/{{ post.slug }}.html">{{ post.headline }} </a> </h2>
+      <h4>{{ post.date }}</h4>
+      <hr>
+      {% endfor %}
+  </div>
+
+</article>
+{% endblock %}

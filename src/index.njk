@@ -1,20 +1,20 @@
 {% extends '_templates/base.njk' %}
 
-{% block page_title %}Capt. McGillicutty's Ship's Log{% endblock %}
+{% block page_title %}About Me{% endblock %}
 
 {% block content %}
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-lg-8">
-      <h1>A pirate's life is for me</h1>
-      <p>Hempen halter mizzenmast deadlights gaff pillage starboard jack lee Blimey draught. Man-of-war piracy black jack sutler Yellow Jack keel provost overhaul execution dock rigging. Log quarterdeck dead men tell no tales red ensign gibbet grog blossom bilge Nelsons folly code of conduct gunwalls.</p>
-      {% for post in blog.blogs %}
-      <h2><a href="blog/{{ post.slug }}.html">{{ post.headline }} </a> </h2>
-      <h4>{{ post.date }}</h4>
-      <hr>
-      {% endfor %}
+      <h1>Hi! I'm Fiza Kuzhiyil</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime labore earum aliquid placeat doloremque at quasi odit nostrum deserunt voluptas magnam, cum, natus officiis fugiat amet debitis soluta nemo quas.</p>
     </div>
   </div>
 </div>
+
+<a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Articles</a>
+<a href="#" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Data clips</a>
+<a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Resume</a>
+
 {% endblock %}
 
