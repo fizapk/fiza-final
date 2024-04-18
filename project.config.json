@@ -32,6 +32,13 @@
       "array": "articles",
       "slug": "slug",
       "path": "articles"
+    },
+    {
+      "template": "bake-clips_data",
+      "data": "articles",
+      "array": "articles",
+      "slug": "slug",
+      "path": "articles"
     }
   ]
 }
