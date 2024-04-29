@@ -6,7 +6,8 @@
 
 {% block content %}
 <article class="container">
-  <h1>Reporting</h1>
+  <h1 >Reporting</h1>
+  <p>From public education to breaking news, the intersection of human interest and public policy drive my curiosity.</p>
       {% for post in articles.articles %}
       <h3><a href="articles/{{ post.slug }}.html">{{ post.headline }} </a></h3>
       <h4>{{ post.date }}</h4>
