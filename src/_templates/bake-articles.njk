@@ -9,14 +9,16 @@
 {% block content %}
   <article class="container">
     <div class="row">
-      <div class="col-sm-4">
-        <img src="../img/headshot1.jpg" alt="headshot" class="img-fluid">
-        <p class="byline">Fiza Kuzhiyil</p>
+
+      <div class="col-lg-4 pb-2">
+        <img src="../img/{{ image }}" alt="image" class="img-fluid mb-4">
+        <h1>{{ headline }}</h1>
+        <p class="byline">by Fiza Kuzhiyil<p>
         <hr class="d-sm-none">
       </div>
-      <div class="col-sm-8">
-        <img src="../img/{{ image }}" alt="" class="img-fluid mb-4">
-        <h3>{{ headline }}</h3>
+      
+      <div class="col-lg-8">
+        <img src="{{ relative_path }} img/{{ articles.image }}" alt="" class="img-fluid mb-4">
         {{ prose(post) }}
       </div>
     </div>

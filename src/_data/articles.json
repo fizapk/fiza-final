@@ -1,10 +1,10 @@
 {
   "articles": [
     {
-      "slug": "Axios test",
+      "slug": "axios1",
       "headline": "Not all Texas schools hiring armed guards, despite new law",
       "date": "AXIOS",
-      "image": "kraken01.jpg",
+      "image": "axios1.png",
       "post": [
         {
           "type": "text",
@@ -69,42 +69,238 @@
       ]
     },
     {
-      "slug": "2019-10-19",
-      "headline": "HISD",
+      "slug": "axios2",
+      "headline": "HISD backtracks on principal evaluation plan",
       "date": "AXIOS",
-      "image": "axios.jpg",
+      "image": "axios2.png",
       "post": [
         {
           "type": "text",
-          "value": "Hands Sink me fathom barkadeer nipper chase Spanish Main haul wind gangway clipper. Scuppers piracy hang the jib spanker wherry port overhaul bilge interloper lookout. Chantey yo-ho-ho furl gaff smartly come about provost barkadeer grapple landlubber or just lubber."
+          "value": "After outrage by educators and parents, Houston ISD superintendent <a href=\"https://www.axios.com/local/houston/2023/06/01/houston-school-district-superintendent\">Mike Miles</a> has backtracked on a plan to fire or discipline more than 100 principals who don't meet the standards of the district's new rating system."
         },
         {
           "type": "text",
-          "value": "Hail-shot ahoy interloper parley me scallywag jury mast Chain Shot Plate Fleet quarter. Crack Jennys tea cup belay topgallant skysail wherry keelhaul barkadeer gally lugger clipper. Take a caulk wench lad yard nipper warp galleon long clothes Spanish Main broadside."
+          "value": "Why it matters: <a href=\"https://www.axios.com/local/houston/2023/08/22/catch-up-on-hisds-overhaul\">Miles' tenure</a> has been met with protests and calls for his removal after he implemented a new principal proficiency screening program."
         },
         {
           "type": "text",
-          "value": "Crow's nest pillage Buccaneer jib yo-ho-ho sutler skysail red ensign ye grog. Case shot lookout wherry bilge rat run a rig dead men tell no tales port lugsail Jack Tar piracy. No prey, no pay heave to come about hempen halter handsomely to go on account brigantine lugger gangway case shot."
+          "value": "* Miles was appointed to head the district by the Texas Education Agency, which took oversight of the troubled district last year."
+        },
+        {
+          "type": "text",
+          "value": "State of play: On March 8, the Houston Chronicle published a <a href=\"https://www.houstonchronicle.com/news/houston-texas/education/article/hisd-miles-principals-on-notice-18753888.php\">list</a> of 117 principals who had been informed by the district that they failed to meet the proficiency job standards."
+        },
+        {
+          "type": "text",
+          "value": "* At a news conference last week, Miles said the emails putting nearly half of the district's principals on notice didn't mean they were going to be fired, but he acknowledged that 10% to 20% could face removal."
+        },
+        {
+          "type": "text",
+          "value": "* The Houston Association of School Administrators (HASA) called this level of turnover \"unacceptable\" and \"unsatisfactory.\""
+        },
+        {
+          "type": "text",
+          "value": "Between the lines: The district no longer offers strong mentorship to new principals, but it expects first-time leaders to perform as well as veterans, HASA executive director Shannon Verrett told Axios."
+        },
+        {
+          "type": "text",
+          "value": "* After the district hired at least 830 <a href=\"https://www.axios.com/2023/08/22/teacher-shortages-uncertified-consequences-students-houston\">uncertified teachers</a> this school year, campuses are unable to meet Miles' proficiency goals, Verrett said."
+        },
+        {
+          "type": "text",
+          "value": "What they're saying: Parents yelled at Miles during a recent school board meeting."
+        },
+        {
+          "type": "text",
+          "value": "* \"Trust has been repeatedly broken, and we are hurting,\" said resident Stacy Anderson."
+        },
+        {
+          "type": "text",
+          "value": "Friction point: 150 community members registered to speak at the meeting. Many students and parents came from Carnegie Vanguard High School, whose principal was one of the 117 marked as underperforming."
+        },
+        {
+          "type": "text",
+          "value": "* Many argued that Ramon Moss, the Vanguard principal for 20 years, built the magnet school into one ranked by U.S. News and World Report as the <a href=\"https://www.usnews.com/education/best-high-schools/texas/districts/houston-independent-school-district/carnegie-vanguard-high-school-19262\">35th best public high school</a> in the country and the fifth best in Texas."
+        },
+        {
+          "type": "text",
+          "value": "* \"My principal knows my name and everyone else's, and my teachers are concerned about my education and about me,\" HISD seventh grader Brynn Cabe said at the meeting. \"Our school was like this before you came to our district, and I hope it can withstand your policies.\""
         }
       ]
     },
     {
-      "slug": "2019-04-02",
-      "headline": "Thar be monsters fr",
-      "date": "April 02, 2019",
-      "image": "kraken03.jpg",
+      "slug": "healthcare",
+      "headline": "Uninsured UT students discuss healthcare barriers",
+      "date": "The Daily Texan",
+      "image": "DT1.jpg",
       "post": [
         {
           "type": "text",
-          "value": "Hands Sink me fathom barkadeer nipper chase Spanish Main haul wind gangway clipper. Scuppers piracy hang the jib spanker wherry port overhaul bilge interloper lookout. Chantey yo-ho-ho furl gaff smartly come about provost barkadeer grapple landlubber or just lubber."
+          "value": "Michelle Nwaeri has a lingering fear. If she was ever in an accident, she’s afraid that someone would call an ambulance she couldn’t afford."
         },
         {
           "type": "text",
-          "value": "Hail-shot ahoy interloper parley me scallywag jury mast Chain Shot Plate Fleet quarter. Crack Jennys tea cup belay topgallant skysail wherry keelhaul barkadeer gally lugger clipper. Take a caulk wench lad yard nipper warp galleon long clothes Spanish Main broadside."
+          "value": "“Don't call an ambulance,” Nwaeri said. “Please don't call an ambulance. Put me in the back of an Uber. Just take me to the hospital. Let's just remove a couple $1,000 (from) my bill, please.”"
         },
         {
           "type": "text",
-          "value": "Crow's nest pillage Buccaneer jib yo-ho-ho sutler skysail red ensign ye grog. Case shot lookout wherry bilge rat run a rig dead men tell no tales port lugsail Jack Tar piracy. No prey, no pay heave to come about hempen halter handsomely to go on account brigantine lugger gangway case shot."
+          "value": "<a href=\"https://www.ncbi.nlm.nih.gov/books/NBK223657/\">1 out of 5</a> college students across America don’t have health insurance. Many of these students struggle to navigate the healthcare system and access affordable and effective care."
+        },
+        {
+          "type": "text",
+          "value": "Nwaeri, a nutrition senior, said her parents live in Nigeria and their health insurance doesn’t cover her in America. She said she usually goes to the doctor for her annual check-up in Nigeria because it’s more affordable, but she hasn’t been back in over a year."
+        },
+        {
+          "type": "text",
+          "value": "“It is scary to think of the fact that there could be some lingering illness that I'm unaware of and some health professionals are able to detect easily,” Nwaeri said."
+        },
+        {
+          "type": "text",
+          "value": "Associate Director for Nursing and Clinical Operations at University Health Services (UHS), Kathy Mosteller, said uninsured students should call their medical providers to ask how much necessary procedures cost. If the information is still unclear, she said students should ask to speak to billing offices who can explain costs further."
+        },
+        {
+          "type": "text",
+          "value": "“We want students to feel comfortable calling (UHS),” Mosteller said.” That's why we have the nurse advice line. That's why we have our receptionist that can answer most questions.”"
+        },
+        {
+          "type": "text",
+          "value": "Psychology senior Jolee Cave said she hasn’t had health insurance for over a decade. Her hometown, Leakey, TX, offers a program providing uninsured people with free birth control, but when she arrived at UT, she said she had to pay $50 out-of-pocket every three months. She said costs like this keep her from seeking care."
+        },
+        {
+          "type": "text",
+          "value": "“My back's been in very intense pain for four days, but my first instinct is never to go to the doctor,” Cave said. “That's the last resort (and) only if I absolutely had to.”"
+        },
+        {
+          "type": "text",
+          "value": "Cave said she uses financial aid and scholarships to pay for her tuition, and has always felt left out among some of her wealthy peers."
+        },
+        {
+          "type": "text",
+          "value": "“Insurance is another thing that I don't have and that a lot of the people around me probably take for granted,” Cave said."
+        },
+        {
+          "type": "text",
+          "value": "When Rocío De Carolis arrived at Texas Law to begin her semester as an exchange student from Argentina, she said she had to pay over $1,400 for<a href=\"https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/student-insurance/\"> student insurance</a> to enroll."
+        },
+        {
+          "type": "text",
+          "value": "“For me, it is a burden,” De Carolis said. “It's basically a little bit more than one month’s rent. It was painful and frustrating. I have to pay for this and I don't even know if I'm gonna use it.”"
+        },
+        {
+          "type": "text",
+          "value": "De Carolis said the insurance covers visits to the UHS clinic, but it doesn’t cover visits to the Counseling and Mental Health Center (CMHC). She said she has heightened anxiety due to the pandemic, but the weekly out-of-pocket cost keeps her from seeking care at the CMHC."
+        },
+        {
+          "type": "text",
+          "value": "Director for Prevention, Development and Media Relations at CMHC, Katy Redd, said individual appointments with psychiatrists have a $10 fee with a flexible payment plan."
+        },
+        {
+          "type": "text",
+          "value": "“This is a hard time for all of us, especially for students,” Redd said. “The vast majority of our services are available at no charge to certain students, so insurance status isn't something we look at.”"
+        },
+        {
+          "type": "text",
+          "value": "Growing up without insurance, Nwaeri said she realized the negative impacts that lack of access to healthcare has on uninsured Americans. She chose a career path in healthcare to address these disparities."
+        },
+        {
+          "type": "text",
+          "value": "“The bureaucracy and agenda of the healthcare system always gets a little demotivating at times, but then I'm reminded of institutions and businesses that actually help people without insurance,” Nwaeri said. “There's still ways to make a difference.”"
+        }
+      ]
+    },
+    {
+      "slug": "winterstorm",
+      "headline": "Winter storm leaves many UT students seeking shelter from uninhabitable living conditions, freezing temperatures",
+      "date": "The Daily Texan",
+      "image": "DT2.jpg",
+      "post": [
+        {
+          "type": "text",
+          "value": "At 4 a.m. on Wednesday, government freshman Melina Olivas was woken up by the blaring of her apartment’s fire alarm. Olivas expected a false alarm, but when she opened her front door, water began rushing in from the hallway."
+        },
+        {
+          "type": "text",
+          "value": "Olivas and her boyfriend took turns sweeping the water away from their front door until they couldn’t keep up. Eventually their apartment, St Johns West, was filled with over an inch of water."
+        },
+        {
+          "type": "text",
+          "value": "“Everyone was so excited, like, ‘Oh, we got snow in Texas. This is gonna be amazing.’ And then suddenly, everybody doesn’t have power or water,” Olivas said."
+        },
+        {
+          "type": "text",
+          "value": "In the aftermath of a winter storm that left millions of Texans without power in freezing temperatures, students now find their housing significantly affected. Some students’ housing flooded and others fled freezing homes to find shelter in emergency housing."
+        },
+        {
+          "type": "text",
+          "value": "Olivas said the water leak came from a burst pipe on her floor. She said emergency services such as 911 and 311 were overwhelmed by similar concerns and couldn’t immediately assist them."
+        },
+        {
+          "type": "text",
+          "value": "“We had to move everything really fast to get all our electronics and mattress and stuff up high,” Olivas said."
+        },
+        {
+          "type": "text",
+          "value": "Olivas said her neighbor eventually vacuumed the water out, but not before it had already seeped into the walls. She said her building’s maintenance staff took out the damaged parts of her drywall Friday, leaving holes for the foreseeable future."
+        },
+        {
+          "type": "text",
+          "value": "“It’s been really stressful,” Olivas said. “Finally all the water’s out, but now I have to deal with all this drywall all over my floor, and my couch is in the middle of the kitchen.”"
+        },
+        {
+          "type": "text",
+          "value": "Sofia Pineda, an economics and Middle Eastern studies sophomore, said water started dripping from her ceiling Wednesday at midnight. She said a water heater burst on the third floor of her apartment complex and leaked all the way down to her apartment on the first floor."
+        },
+        {
+          "type": "text",
+          "value": "“I was freaking out,” Pineda said. “I called my mom before the management company because I didn’t know what to do, but then I called emergency maintenance.”"
+        },
+        {
+          "type": "text",
+          "value": "Pineda said maintenance told her to call 911, but the fire department said it could take up to 24 hours to clear the water. At this point, she said the water on her kitchen floor was so high it covered her shoes."
+        },
+        {
+          "type": "text",
+          "value": "“Progressively, like, the whole ceiling started to rain on me,” Pineda said. “I had to get my dogs and anything electronic into my car and leave in the ice to my parents’ house because they live in Austin.”"
+        },
+        {
+          "type": "text",
+          "value": "When she went back to her apartment later in the week, she said everything she owned, from her clothes to her cherished school yearbooks, were soaked through."
+        },
+        {
+          "type": "text",
+          "value": "“I didn’t believe it would get as bad as it did even though it was raining (down),” Pineda said. “You don’t think, ‘Oh, all my stuff’s about to get ruined.’”"
+        },
+        {
+          "type": "text",
+          "value": "After the power went out in his North Austin apartment, computer science junior Fazal Ali said he used a meat thermometer to test the indoor temperature. After 15 hours without power, the thermometer read 38 degrees."
+        },
+        {
+          "type": "text",
+          "value": "“I realized that I had to get out of this place before I froze to death,” Ali said. “It was basically like survivor mode, and the only things I was worrying about (were) the essentials: water, food and shelter.”"
+        },
+        {
+          "type": "text",
+          "value": "Ali said he fled to the Texas Union, but he was worried about being exposed to COVID-19 due to a pre-existing condition that makes him more susceptible to the virus. He was supposed to get the second dose of the vaccine Wednesday, but it was delayed due to the inclement weather."
+        },
+        {
+          "type": "text",
+          "value": "He said students at the Union tried to maintain social distancing, but he decided to play it safe and sleep in his car for several hours."
+        },
+        {
+          "type": "text",
+          "value": "“My car was the saving grace because it had heat,” Ali said. “I could charge my phone, and worst comes to worst, I could sleep there. I had never been so grateful for my car before.”"
+        },
+        {
+          "type": "text",
+          "value": "Once he charged his phone, Ali said he was able to call his parents who live in India to let them know he was safe. He said he also reached out to his neighbors to offer them help."
+        },
+        {
+          "type": "text",
+          "value": "“I am actually very proud of being in Texas at the moment,” Ali said."
+        },
+        {
+          "type": "text",
+          "value": "“I have never seen a whole community — a whole state — come together like this. … It’s incredibly good to see that even in the worst of times, people can be their best.”"
         }
       ]
     }
