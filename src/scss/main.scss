@@ -26,6 +26,28 @@ h3 {
   font-size: 1.5rem;
 }
 
+body {
+  background-color: rgb(245, 236, 223);
+}
+
+.headshot {
+  max-width: 100%;
+  max-height:100%;
+  float: left;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 700
+
+.primary-font {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+
+
 
 
 

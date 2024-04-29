@@ -1,30 +1,78 @@
 {
   "articles": [
     {
-      "slug": "2019-10-18",
-      "headline": "TEST ARTICLE #1",
-      "date": "Oct. 18, 2019",
+      "slug": "Axios test",
+      "headline": "Not all Texas schools hiring armed guards, despite new law",
+      "date": "AXIOS",
       "image": "kraken01.jpg",
       "post": [
         {
           "type": "text",
-          "value": "Sea Legs lee grog blossom capstan <a href=\"https://en.wikipedia.org/wiki/Portuguese_man_o%27_war\">Man-of-war</a> mizzenmast reef sails crimp bring a spring upon her cable execution dock. Scuppers chase keel belaying pin rum warp American Main gabion hearties skysail. Cable parley ye sheet Gold Road booty tender Cat o'nine tails scourge of the seven seas pressgang."
+          "value": "Many Texas school districts haven't hired armed security officers at every campus, as required by a new state law, because of a lack of funding."
         },
         {
           "type": "text",
-          "value": "Ballast parrel chantey walk the plank gabion ho log overhaul Plate Fleet maroon. Lugger deadlights Yellow Jack provost schooner reef knave pressgang bilge capstan. Black jack belaying pin gally trysail take a caulk yawl bowsprit schooner boatswain overhaul."
+          "value": "Why it matters: After 19 students and two teachers were killed at <a href=\"https://www.axios.com/2024/01/18/uvalde-doj-report-school-shooting\">Robb Elementary in Uvalde</a>, the Republican-led Legislature passed new mental health and school safety standards last year."
         },
         {
           "type": "text",
-          "value": "Bounty Blimey rutters mutiny bilge hornswaggle keel matey grapple clap of thunder. Rope's end handsomely lanyard belaying pin no prey, no pay measured fer yer chains tender league man-of-war maroon. Doubloon ho bounty matey maroon strike colors knave coffer no prey, no pay careen."
+          "value": "* A key provision was posting an armed officer at every public school."
+        },
+        {
+          "type": "text",
+          "value": "Catch up quick: House Bill 3, which went into effect in September, expanded and reinforced existing school safety efforts, such as required mental health training."
+        },
+        {
+          "type": "text",
+          "value": "* The law allocated $15,000 per campus and $10 for each student, but lawmakers did not approve an additional $800 million to help districts comply with the standards."
+        },
+        {
+          "type": "text",
+          "value": "* That left many districts without enough money to hire additional officers, who can cost $80,000 to $100,000 per year, according to the Texas Association of School Boards."
+        },
+        {
+          "type": "text",
+          "value": "Yes, but: School districts can vote for a good-cause exception to the rule by providing an alternative safety plan to the requirements for the time being if they can't afford personnel or can't find qualified candidates."
+        },
+        {
+          "type": "text",
+          "value": "Between the lines: Gov. Greg Abbott blocked efforts to boost school funding, saying he wanted lawmakers to first pass a bill to provide <a href=\"https://www.axios.com/local/dallas/2023/12/05/school-vouchers-fail-texas\">taxpayer money for private school tuition</a>."
+        },
+        {
+          "type": "text",
+          "value": "* Repeated attempts to pass voucher legislation ran aground as Democrats and rural Republicans opposed it."
+        },
+        {
+          "type": "text",
+          "value": "The big picture: It's not clear how many districts have hired a security officer at each campus."
+        },
+        {
+          "type": "text",
+          "value": "* The Texas Education Agency does not require districts to share compliance information, and no entity tracks how many schools in the state use good-cause exceptions to comply with the law."
+        },
+        {
+          "type": "text",
+          "value": "Zoom in: Districts that have sought good-cause exceptions include Dallas, Leander, San Antonio and Houston ISDs, each approving alternative safety plans like ​​employing school marshals."
+        },
+        {
+          "type": "text",
+          "value": "By the numbers: Two decades ago, 108 school districts in Texas had their own police departments."
+        },
+        {
+          "type": "text",
+          "value": "* Now, 400 districts, or about a third of districts in Texas, employ officers."
+        },
+        {
+          "type": "text",
+          "value": "What they're saying: \"School district policing is not (like) policing on the streets,\" Texas School District Police Chiefs Association president Bill Avera said. \"The school becomes the community, and you have to have relationship building, and so it's not a place just to assign someone, but to identify a person who has the character traits and personality to make a positive impact in the life of a student, so there were challenges with the number of applicants available.\""
         }
       ]
     },
     {
       "slug": "2019-10-19",
-      "headline": "My white whale",
-      "date": "Oct. 19, 2019",
-      "image": "kraken02.jpg",
+      "headline": "HISD",
+      "date": "AXIOS",
+      "image": "axios.jpg",
       "post": [
         {
           "type": "text",
