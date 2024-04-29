@@ -241,13 +241,12 @@ ArchieML Google Docs work as documented on the [ArchieML](http://archieml.org/) 
 
 ### Prose macro
 
-There is a "prose" macro that can loop through multiple paragraphs of text that have been created using [freeform arrays in ArchieML](http://archieml.org/#freeform-arrays). To use this feature on a page, you need the following in your page:
+There is a "prose" macro that can loop through multiple paragraphs of text that have been created using [freeform arrays in ArchieML](http://archieml.org/#freeform-arrays). To use this feature on a page, you need to follow these steps:
 
-```html
-{% from '_macros/prose.njk' import prose %}
+1. Import the prose macro into your page.
+2. Use the `prose` macro with your data file name and array name as parameters.
+3. Replace "filename" with your data file name and "array_name" with the name of your array in your data.
 
-{{ prose(filename.array_name) }}
-```
 
 - The first line imports the prose macro. This can near the top of the file after the template extend.
 - The second line goes where you want the paragraphs of text to go. Change "filename" to your data file name and  "array_name" to the name of your array in your data.
