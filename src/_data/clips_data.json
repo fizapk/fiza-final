@@ -2,45 +2,38 @@
   "ships": [
     {
       "image": "trib.png",
-      "ship_name": "The Brief",
-      "captain": "TEST 1",
-      "blurb": "One of the Tribune's most opened newsletters of 2024, this clip focuses on delivering important news in an enticing container.",
-      "source": "https://www.thoughtco.com/famous-pirate-ships-2136286"
+      "name": "The Brief Newsletter",
+      "blurb": "One of the Tribune's most opened newsletters of 2024, I wrote the main synopsis for this newsletter, breaking down complicated scientific terms about \"forever chemicals\" to make the crucial information about their water and their health more accessible.",
+      "source": "https://mailchi.mp/texastribune/forever-chemicals-in-dozens-of-texas-water-systems-exceed-new-federal-limits?e=9199396f88"
     },
     {
       "image": "trib.png",
-      "ship_name": "placeholder",
-      "captain": "placeholder",
+      "name": "Instagram",
       "blurb": "placeholder",
       "source": "https://www.thoughtco.com/famous-pirate-ships-2136286"
     },
     {
       "image": "trib.png",
-      "ship_name": "placeholder",
-      "captain": "placeholder",
+      "name": "Twitter",
       "blurb": "placeholder",
       "source": "https://www.mentalfloss.com/article/21557/6-famous-pirate-ships"
     },
     {
       "image": "post.png",
-      "ship_name": "placeholder",
-      "captain": "placeholder",
+      "name": "Livechat",
       "blurb": "placeholder",
       "source": "https://www.thoughtco.com/famous-pirate-ships-2136286"
     },
     {
-      "image": "post.png",
-      "ship_name": "placeholder",
-      "captain": "placeholder",
+      "image": "statesman.png",
+      "name": "Instagram",
       "blurb": "placeholder",
       "source": "https://www.pirateshowcancun.com/blog/scurvy-pirate-history/famous-pirate-ships-in-history/"
     },
     {
       "image": "post.png",
-      "ship_name": "placeholder",
-      "captain": "placeholder",
-      "blurb": "placeholder",
-      "source": "https://mailchi.mp/texastribune/forever-chemicals-in-dozens-of-texas-water-systems-exceed-new-federal-limits?e=9199396f88"
+      "name": "Layout",
+      "blurb": "placeholder"
     }
   ]
 }

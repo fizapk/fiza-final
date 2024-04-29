@@ -9,22 +9,20 @@
   <h1>Digital</h1>
   <p>Newsletters, social media and digital projects!</p>
   <div class="row row-cols-1 row-cols-md-2  row-cols-lg-3 g-4">
-    {% for ship in clips_data.ships %}
+    {% for clip in clips_data.ships %}
     <div class="col">
       <div class="card h-100">
-        <img class="card-img-top" src= "../img/{{ ship.image }}" alt="Card image cap">
+        <img class="card-img-top" src= "../img/{{ clip.image }}" alt="Card image cap">
         <div class="card-body">
-          <h5 class="card-title">{{ ship.ship_name }}</h5>
-          <h6>{{ ship.captain }} </h6>
-          <p class="card-text">{{ ship.blurb }}</p>
+          <h5 class="card-title">{{ clip.name }}</h5>
+          <p class="card-text">{{ clip.blurb }}</p>
         </div>
          <div class="card-footer">
               <a href="{{ ship.source }}" class="card-link">Read the story</a>
-            </div>
+          </div>
       </div>
     </div>
     {% endfor %}
   </div>
-
 </article>
 {% endblock %}
