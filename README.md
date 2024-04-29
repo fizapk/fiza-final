@@ -84,7 +84,8 @@ All **pages** are kept in the `src/` folder. Each `.njk` file (including those i
 
 This project includes the example `src/index.njk`, which is the homepage of the website. It _extends_ `src/_templates/base.njk`. Using the _block_ and _extend_ features allows you to worry about only main content of the page, as it inherits the nav and other framework from the base template. This example includes some loops to build content from the example library and bookstores data, described in detail below.
 
-To create a new webpage, just add a new file in `src/` with the `.njk` extension. You'll want to _extend_ the `_templates/base.njk` template and put your content inside the `{% block content %}{% endblock %}` block.
+To create a new webpage, just add a new file in `src/` with the `.njk` extension. You'll want to \_extend\_ the \_templates/base.njk template and put your content inside the \{\% block content \%\}\{\% endblock \%\} block.
+
 
 ### Deployment
 
@@ -241,12 +242,13 @@ ArchieML Google Docs work as documented on the [ArchieML](http://archieml.org/) 
 
 ### Prose macro
 
-There is a "prose" macro that can loop through multiple paragraphs of text that have been created using [freeform arrays in ArchieML](http://archieml.org/#freeform-arrays). To use this feature on a page, you need to follow these steps:
+There is a "prose" macro that can loop through multiple paragraphs of text that have been created using [freeform arrays in ArchieML](http://archieml.org/#freeform-arrays). To use this feature on a page, you need the following in your page:
 
-1. Import the prose macro into your page.
-2. Use the `prose` macro with your data file name and array name as parameters.
-3. Replace "filename" with your data file name and "array_name" with the name of your array in your data.
+```html
+{% from '_macros/prose.njk' import prose %}
 
+{{ prose(filename.array_name) }}
+```
 
 - The first line imports the prose macro. This can near the top of the file after the template extend.
 - The second line goes where you want the paragraphs of text to go. Change "filename" to your data file name and  "array_name" to the name of your array in your data.
